@@ -7,7 +7,7 @@ function header() {
    
       <div className='header'>
             <img className='header-logo' 
-            src='logo.png'/>
+            src="img/logo.png"/>
             <div className='header_search'>
                 <input className='header_searchInput' type="text"/>
             </div>
