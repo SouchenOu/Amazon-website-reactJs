@@ -78,5 +78,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 1: Header:
 ----------
 
+<img width="1013" alt="Screen Shot 2022-12-27 at 3 35 09 PM" src="https://user-images.githubusercontent.com/87101785/209704666-07966a1f-7fa4-4883-bc65-35779cb7e0cd.png">
 
-<img width="982" alt="Screen Shot 2022-12-27 at 12 19 53 PM" src="https://user-images.githubusercontent.com/87101785/209659301-aca3a582-9d25-4234-9675-32dbf01f04b5.png">
+2: Home:
+--------
+
+<img width="1013" alt="Screen Shot 2022-12-27 at 3 35 00 PM" src="https://user-images.githubusercontent.com/87101785/209704688-819e84d5-2e55-4f95-b0af-3c5c7084e7c6.png">
+
+<img width="1967" alt="Screen Shot 2022-12-27 at 6 56 21 PM" src="https://user-images.githubusercontent.com/87101785/209704698-47d02374-c277-4565-a481-cfbe4f4d5ceb.png">
+
+
+
