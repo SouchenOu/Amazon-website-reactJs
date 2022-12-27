@@ -2,6 +2,7 @@ import React from 'react'
 import './header.js'
 import img1 from './img/logo.png';
 import SearchIcon from '@mui/icons-material/Search';
+import AddShoppingCartIcon from '@mui/icons-material/AddShoppingCart';
 
 function header() {
   return (
@@ -26,6 +27,9 @@ function header() {
                     <span className='span1'>Your</span>
                     <span className='span2'>prime</span>
                 </div>
+            </div>
+            <div className='header_optionShopping'>
+                <AddShoppingCartIcon className='ShoppingCart'/>
             </div>
       </div>
 
