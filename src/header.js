@@ -2,7 +2,7 @@ import React from 'react'
 import './header.js'
 import img1 from './img/logo.png';
 import SearchIcon from '@mui/icons-material/Search';
-import AddShoppingCartIcon from '@mui/icons-material/AddShoppingCart';
+import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 
 function header() {
   return (
@@ -29,7 +29,8 @@ function header() {
                 </div>
             </div>
             <div className='header_optionShopping'>
-                <AddShoppingCartIcon className='ShoppingCart'/>
+                <ShoppingCartIcon className='ShoppingCart'/>
+                <span className=' header_optionLineTwo header_shoppingcartCount'>0</span>
             </div>
       </div>
 

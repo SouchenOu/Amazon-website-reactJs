@@ -51,3 +51,13 @@
 .header_nav{
     display:flex;
 }
+.header_optionShopping{
+
+    color: white;
+    display:flex;
+}
+.header_shoppingcartCount{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
