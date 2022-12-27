@@ -1,5 +1,5 @@
 import React from 'react'
-import './header.js'
+import './header.css'
 import img1 from './img/logo.png';
 import SearchIcon from '@mui/icons-material/Search';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';

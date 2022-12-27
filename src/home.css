@@ -1,0 +1,12 @@
+.Home_image{
+    width:100%;
+    margin-bottom: -150px;
+}
+.text{
+    text-align: center;
+    font-size: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -320px;
+    margin-left:-500px;
+    color: blue;
+}
