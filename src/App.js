@@ -4,6 +4,7 @@ import Header from './header';
 import Home from './home';
 import { BrowserRouter as Router, Switch, Route }
 from "react-router-dom";
+import Checkout from "./checkout"
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
       <Switch>
           <Route path="/checkout">
       <Header />
-        <h1>I am a checkout , Smach the like button</h1>
+        <Checkout/>
       </Route>
       <Route path='/'>
       <Header />
