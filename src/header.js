@@ -4,8 +4,10 @@ import img1 from './img/logo.png';
 import SearchIcon from '@mui/icons-material/Search';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import { Link } from "react-router-dom";
+import {UseStateValue} from "./StateProvider";
 
 function header() {
+    const [{ shariot }]= UseStateValue();
   return (
    
       <div className='header'>
@@ -34,7 +36,7 @@ function header() {
             <Link to="/checkout">
                 <div className='header_optionShopping'>
                     <ShoppingCartIcon className='ShoppingCart'/>
-                    <span className=' header_optionLineTwo header_shoppingcartCount'>0</span>
+                    <span className=' header_optionLineTwo header_shoppingcartCount'>{shariot?.length}</span>
                 </div>
             </Link>
       </div>

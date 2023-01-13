@@ -1,17 +1,18 @@
 export const initialState = {
-    shario :[],
+    shariot :[],
 };
 
 
 const reducer = (state, action) =>
 {
+    console.log(action);
     switch (action.type)
     {
-        case "ADD_to_shariot":
+        case "ADD_TO_SHARIOT":
             return {
 
                 ...state,
-                shario: [...state.basket, action.item],
+                shariot: [...state.shariot, action.item],
             };
             default:
                     return state;

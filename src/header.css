@@ -50,6 +50,7 @@
 }
 .header_nav{
     display:flex;
+    justify-content: space-between;
 }
 .header_optionShopping{
 
