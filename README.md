@@ -74,7 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -----------------------------------------------------------------------------------------
 
 
-👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻.  i'm still working on it, not finished yet ----> 👨‍💻👨‍💻👨‍💻👨‍💻 
+👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍  💻 Hello, I'm still working on it, not finished yet ----> 👨‍💻👨‍💻👨‍💻👨‍💻 
 -----------------------------------------------------------------------------------------
 
 
