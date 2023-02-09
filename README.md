@@ -98,4 +98,15 @@ Routing is a process in which a user is directed to different pages based on the
 <img width="1967" alt="Screen Shot 2022-12-27 at 6 56 21 PM" src="https://user-images.githubusercontent.com/87101785/209704698-47d02374-c277-4565-a481-cfbe4f4d5ceb.png">
 
 
+<img width="1242" alt="Screen Shot 2023-02-09 at 9 46 51 AM" src="https://user-images.githubusercontent.com/87101785/217762027-97cfcf15-7d07-453a-b91e-5f2f3d3353ff.png">
+
+
+
+<img width="2492" alt="Screen Shot 2023-02-09 at 9 47 22 AM" src="https://user-images.githubusercontent.com/87101785/217762052-3bd99fc8-eee3-4221-a049-7dfd82c554d2.png">
+
+
+
+<img width="1259" alt="Screen Shot 2023-02-09 at 9 47 07 AM" src="https://user-images.githubusercontent.com/87101785/217762075-5f5d60dc-44c5-4366-9beb-3917dc5f8b90.png">
+
+
 
