@@ -70,14 +70,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-Some notes:
+
+👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻.  i'm still working on it, not finished yet ----> 👨‍💻👨‍💻👨‍💻👨‍💻 
+
 
 1:  React Router
   ------------
   
 Routing is a process in which a user is directed to different pages based on their action or request. ReactJS Router is mainly used for developing Single Page Web Applications. React Router is used to define multiple routes in the application
-
-
 
 
 
